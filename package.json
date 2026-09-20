@@ -1,0 +1,12 @@
+{
+  "name": "skilldna-core",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Deterministic SkillDNA scoring, career matching, and answer evidence engine",
+  "scripts": {
+    "test": "node test/test.js",
+    "acceptance": "node test/acceptance.mjs",
+    "start": "node server.mjs"
+  }
+}
